@@ -14,13 +14,20 @@ A bot developed with Google Apps Script to monitor a Google Sheets ticket log an
 
 ## 🚀 How to Use
 
-1. **Create a Google Sheets spreadsheet** with the following columns:
+1. **Create a Google Sheets spreadsheet** 
+<img width="329" height="312" alt="image" src="https://github.com/user-attachments/assets/cca811e0-8e2c-43c9-9d8d-506819bbfa89" />
+
+with the following columns:
     - **A:** Ticket ID
     - **B:** Description
     - **C:** Status (e.g., Open, In Progress, Closed)
-    - **D:** Responsible User Email
+    - **D:** Responsible User Email.
+<img width="608" height="92" alt="image" src="https://github.com/user-attachments/assets/a9e3a029-dd41-48ab-be5d-cb888857e9a8" />
 
-2. **Open the Apps Script editor** (`Extensions` > `Apps Script`) on your spreadsheet and paste the code from `src/main.gs`.
+2. **Open the Apps Script editor** (`Extensions` > `Apps Script`) on your spreadsheet and paste the code from `src/main.gs`.  
+1- <img width="640" height="68" alt="image" src="https://github.com/user-attachments/assets/0777a685-adc8-47c4-b824-afd8b44fdcdb" />  
+2- <img width="321" height="210" alt="image" src="https://github.com/user-attachments/assets/208d81b1-7573-4adc-839b-f4a3428ea0a4" />  
+3- <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6cd4c5be-269d-4d3e-99ea-5fa249210f2b" />  
 
 3. **Save the project** and grant any necessary permissions.
 
